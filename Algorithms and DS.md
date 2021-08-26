@@ -281,6 +281,15 @@ Undirected : [I](http://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
 
 
 
+DP
+https://codeforces.com/blog/entry/43256
+
+Algorithm Implementation/Geometry/Convex hull/Monotone chain
+https://en.wikibooks.org/wiki/Algorithm_Implementation/Geometry/Convex_hull/Monotone_chain
+
+Centroid-Decomposition-of-a-Tree
+https://threadsiiithyderabad.quora.com/Centroid-Decomposition-of-a-Tree
+
 sources:
 https://discuss.codechef.com/t/data-structures-and-algorithms/6599
 
