@@ -1,2 +1,2 @@
 # competitive-coding-resources
-unsorted several coding resources and lists
+unsorted compilation of several coding resources and lists
